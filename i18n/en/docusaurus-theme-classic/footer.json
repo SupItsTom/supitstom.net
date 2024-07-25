@@ -1,0 +1,58 @@
+{
+  "link.title.Platform": {
+    "message": "Platform",
+    "description": "The title of the footer links column with title=Platform in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Resources": {
+    "message": "Resources",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Server Status": {
+    "message": "Server Status",
+    "description": "The label of footer link with label=Server Status linking to https://status.supitstom.net"
+  },
+  "link.item.label.Skid Database": {
+    "message": "Skid Database",
+    "description": "The label of footer link with label=Skid Database linking to placeholder"
+  },
+  "link.item.label.Teapot Live Website": {
+    "message": "Teapot Live Website",
+    "description": "The label of footer link with label=Teapot Live Website linking to teapot"
+  },
+  "link.item.label.Superiority Premium Features": {
+    "message": "Superiority Premium Features",
+    "description": "The label of footer link with label=Superiority Premium Features linking to superiority"
+  },
+  "link.item.label.Changelogs": {
+    "message": "Changelogs",
+    "description": "The label of footer link with label=Changelogs linking to teapot"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Terms of Service",
+    "description": "The label of footer link with label=Terms of Service linking to terms"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Privacy Policy linking to privacy"
+  },
+  "link.item.label.DMCA": {
+    "message": "DMCA",
+    "description": "The label of footer link with label=DMCA linking to dmca"
+  },
+  "copyright": {
+    "message": "Copyright © 1969 SupItsTom",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "SupItsTom Logo",
+    "description": "The alt text of footer logo"
+  }
+}

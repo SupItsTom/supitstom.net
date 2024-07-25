@@ -1,0 +1,21 @@
+# Category
+changelog:
+  label: Changelog
+  permalink: /changelog
+  description: Changelog
+
+# Products:
+superiority:
+  label: Superiority
+  permalink: /superiority
+  description: Superiority
+
+teapot:
+  label: Teapot
+  permalink: /teapot
+  description: Teapot Live & Bot
+
+serenity:
+  label: Serenity
+  permalink: /serenity
+  description: Serenity Trickshotting

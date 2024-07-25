@@ -1,0 +1,38 @@
+{
+  "logo.alt": {
+    "message": "SupItsTom Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Projects": {
+    "message": "Projects",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.Charts": {
+    "message": "Charts",
+    "description": "Navbar item with label Charts"
+  },
+  "item.label.Chroma": {
+    "message": "Chroma",
+    "description": "Navbar item with label Chroma"
+  },
+  "item.label.Changelogs": {
+    "message": "Changelogs",
+    "description": "Navbar item with label Changelogs"
+  },
+  "item.label.Contact": {
+    "message": "Contact",
+    "description": "Navbar item with label Contact"
+  },
+  "item.label.Teapot": {
+    "message": "Teapot",
+    "description": "Navbar item with label Teapot"
+  },
+  "item.label.Serenity": {
+    "message": "Serenity",
+    "description": "Navbar item with label Serenity"
+  },
+  "item.label.Superiority": {
+    "message": "Superiority",
+    "description": "Navbar item with label Superiority"
+  }
+}
