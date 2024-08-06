@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Changelogs",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "Changelogs",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "Changelogs",
+    "description": "The label for the left sidebar"
+  }
+}

@@ -1,0 +1,28 @@
+---
+title: Serenity Creation Kit
+description: Tools for creating custom serenity edits in the browser
+draft: true
+---
+
+# Serenity 8 <span class="badge badge--secondary">Creation Kit</span>
+
+Here you can customize Serenity to your liking!\
+Once you are finished, hit **Export** and then load it.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs queryString="edit">
+  <TabItem value="main" label="Main">
+    | Type | Value |
+    | :-------- | :------- |
+    | Title | <input type="text" id="fname" name="fname"></input> |
+  </TabItem>
+  <TabItem value="settings" label="Settings">
+    | Type | Value |
+    | :-------- | :------- |
+    | Wallbang Everything | <button class="button button--success">ON</button> |
+  </TabItem>
+</Tabs>
+
+<button class="button button--primary">Export</button>
